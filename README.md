@@ -18,9 +18,10 @@ The code should work with [Python](https://www.python.org/) 3. It depends on som
 - plotnine
 - warnings
 
-The installation in [conda](https://docs.conda.io/projects/conda/en/latest/index.html) of the repository with all the necessary packages can be done through the **environment.yml** file. You can perform the installation by running this command in the terminal:
+A suitable [conda](https://docs.conda.io/projects/conda/en/latest/index.html) environment named LAAC_Thrombus_detection can be created and activated with:
 
     conda env create -f environment.yml
+    conda activate LAAC_Thrombus_detection
 
 or  install these libraries is to use pip
 
@@ -29,3 +30,17 @@ or  install these libraries is to use pip
 On the other hand, the database is not available for sharing.
 
 ---
+# Notebooks
+In this repository we can find two notebooks:
+- [Final experiments]()
+- [Additional experiments]()
+
+## FinalExperiments
+In this notebook we can find the 4 experiments followed in the article. In the following workflow the 4 experiments are summarized:
+
+![alt text](WorkFlow.jpg)
+
+
+## Additional experiments
+In this notebook other possibilities of experiment IV are presented varying in the model and the method of feature selection chosen.
+
