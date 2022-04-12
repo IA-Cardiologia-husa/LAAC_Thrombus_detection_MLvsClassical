@@ -32,13 +32,13 @@ On the other hand, the database is not available for sharing.
 ---
 # Notebooks
 In this repository we can find two notebooks:
-- [Final experiments]()
-- [Additional experiments]()
+- [Final experiments](https://github.com/IA-Cardiologia-husa/LAAC_Thrombus_detection_MLvsClassical/blob/main/Final_experiments.ipynb)
+- [Additional experiments](https://github.com/IA-Cardiologia-husa/LAAC_Thrombus_detection_MLvsClassical/blob/main/Additional_experiments.ipynb)
 
 ## FinalExperiments
 In this notebook we can find the 4 experiments followed in the article. In the following workflow the 4 experiments are summarized:
 
-![alt text](WorkFlow.jpg)
+![WorkFlow](WorkFlowNotebook.png)
 
 
 ## Additional experiments
