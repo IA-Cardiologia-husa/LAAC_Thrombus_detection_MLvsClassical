@@ -9,6 +9,9 @@ The aim of this article is to determine whether any differences exist with respe
 ### Notebooks:
 
 - [Reported experiments](https://github.com/IA-Cardiologia-husa/LAAC_Thrombus_detection_MLvsClassical/blob/main/Final_experiments.ipynb)
+
+![Experiment workflow](WorkFlowNotebook.png "Experiments workflow")
+
 - [Additional experiments](https://github.com/IA-Cardiologia-husa/LAAC_Thrombus_detection_MLvsClassical/blob/main/Additional_experiments.ipynb)
 
 ---
