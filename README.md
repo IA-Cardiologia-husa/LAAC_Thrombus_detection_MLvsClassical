@@ -1,12 +1,14 @@
 ## Predictive power for thrombus detection after atrial appendage closure: machine learning vs. classical methods
 
-### ABSTRACT
-
 [link to DOI]
- 
-### Notebooks
 
-- [Final experiments](https://github.com/IA-Cardiologia-husa/LAAC_Thrombus_detection_MLvsClassical/blob/main/Final_experiments.ipynb)
+This repo provides code for the research article *Predictive power for thrombus detection after atrial appendage closure: machine learning vs. classical methods*
+
+The aim of this article is to determine whether any differences exist with respect to the predictive power between the classical multivariable methodology and the machine learning one to predict thrombus after atrial appendage closure. Secondarily, we extract the predictor variables of both methodologies and analyze their differences.
+ 
+### Notebooks:
+
+- [Reported experiments](https://github.com/IA-Cardiologia-husa/LAAC_Thrombus_detection_MLvsClassical/blob/main/Final_experiments.ipynb)
 - [Additional experiments](https://github.com/IA-Cardiologia-husa/LAAC_Thrombus_detection_MLvsClassical/blob/main/Additional_experiments.ipynb)
 
 ---
@@ -30,13 +32,4 @@ A suitable [conda](https://docs.conda.io/projects/conda/en/latest/index.html) en
 otherwise
 
     pip install numpy pandas scipy scikit-learn plotnine warnings
-
----
-
-## [FinalExperiments](https://github.com/IA-Cardiologia-husa/LAAC_Thrombus_detection_MLvsClassical/blob/main/Final_experiments.ipynb)
-
-![WorkFlow](WorkFlowNotebook.png)
-
-
-## [Additional experiments](https://github.com/IA-Cardiologia-husa/LAAC_Thrombus_detection_MLvsClassical/blob/main/Additional_experiments.ipynb)
 
