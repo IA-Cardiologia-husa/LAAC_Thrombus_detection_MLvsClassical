@@ -1,6 +1,6 @@
 ## Predictive power for thrombus detection after atrial appendage closure: machine learning vs. classical methods
 
-[link to DOI]
+[![DOI](https://zenodo.org/badge/480768705.svg)](https://zenodo.org/badge/latestdoi/480768705)
 
 This repo provides code for the research article *Predictive power for thrombus detection after atrial appendage closure: machine learning vs. classical methods*
 
