@@ -12,7 +12,7 @@ The aim of this article is to determine whether any differences exist with respe
 
 ![Experiment workflow](WorkFlowNotebook.png "Experiments workflow")
 
-- [Aditional analisys for best experiments results](https://github.com/IA-Cardiologia-husa/LAAC_Thrombus_detection_MLvsClassical/blob/main/Aditional_analisys_best_experiments.ipynb)
+- [Aditional analisys](https://github.com/IA-Cardiologia-husa/LAAC_Thrombus_detection_MLvsClassical/blob/main/Aditional_analisys.ipynb)
 
 ---
 # Requirements
